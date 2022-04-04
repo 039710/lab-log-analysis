@@ -1,0 +1,4 @@
+Mar 30 22:52:27 rdxplore kernel: [4724726.762002] kauditd_printk_skb: 6 callbacks suppressed
+Mar 30 22:52:27 rdxplore kernel: [4724726.796919] audit: type=1400 audit(1648680747.547:398): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.code.code" pid=492510 comm="apparmor_parser"
+Mar 30 22:52:27 rdxplore kernel: [4724726.796944] audit: type=1400 audit(1648680747.567:399): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap.code.url-handler" pid=492511 comm="apparmor_parser"
+Mar 30 22:52:27 rdxplore kernel: [4724726.839464] audit: type=1400 audit(1648680747.663:400): apparmor="STATUS" operation="profile_replace" info="same as current profile, skipping" profile="unconfined" name="snap-update-ns.code" pid=492513 comm="apparmor_parser"

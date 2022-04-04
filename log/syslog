@@ -1,0 +1,6 @@
+Apr  4 08:39:01 root CRON[672572]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Apr  4 08:39:06 root systemd[1]: Starting Clean php session files...
+Apr  4 08:39:07 root systemd[1]: phpsessionclean.service: Succeeded.
+Apr  4 08:39:07 root systemd[1]: Finished Clean php session files.
+Apr  4 08:44:40 root systemd[1]: session-5284.scope: Succeeded.
+Apr  4 08:45:16 root systemd[1]: Started Session 5313 of user root.
